@@ -1,0 +1,19 @@
+{
+  "name": "fan-out-cluster",
+  "version": "1.0.0",
+  "description": "clustered version of fan-out.js",
+  "main": "fan-out.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/fan-out-cluster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfu/fan-out-cluster/issues"
+  },
+  "homepage": "https://github.com/hfu/fan-out-cluster#readme"
+}
