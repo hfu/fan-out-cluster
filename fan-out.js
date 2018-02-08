@@ -6,7 +6,7 @@ const fs = require('fs-extra')
 const params = {
   dry: false, verbose: true,
   n_threads: 4, report_steps: 10,
-  minzoom: 13, maxzoom: 14, qcon: q => {return (q >= 15)},
+  minzoom: 0, maxzoom: 14, qcon: q => {return q >= 14},
   mbtiles: '/export/italy.mbtiles', 
   dir: '/home/unmap/xyz/ita1801'
 }
