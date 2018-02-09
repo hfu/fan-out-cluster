@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/hfu/fan-out-cluster/issues"
   },
-  "homepage": "https://github.com/hfu/fan-out-cluster#readme"
+  "homepage": "https://github.com/hfu/fan-out-cluster#readme",
+  "dependencies": {
+    "better-sqlite3": "^4.1.0",
+    "fs-extra": "^5.0.0",
+    "zlib": "^1.0.5"
+  }
 }
